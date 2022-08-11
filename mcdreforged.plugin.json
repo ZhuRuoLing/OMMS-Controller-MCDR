@@ -1,0 +1,11 @@
+{
+    "id": "omms_controller",
+    "version": "0.0.1",
+    "name": "OMMS Controller",
+    "description": "Controller side of OMMS for MCDR",
+    "author": "ZhuRuoLing",
+    "dependencies": {
+       "mcdreforged": ">=2.0.0-alpha.1",
+        "python": ">=3.10"
+    }
+}
